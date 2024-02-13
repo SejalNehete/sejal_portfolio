@@ -18,7 +18,7 @@ const pages = [
 const App = () => {
   return (
     <>
-      <Header />
+      <Header /> 
       <Routes>
         {pages.map((page) => (
           <Route key={page.path} path={page.path} element={page.element} />
