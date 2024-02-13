@@ -1,0 +1,37 @@
+.footer-line {
+    border-top: 1px solid gray;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+.footer-line h6 {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 5px;
+    letter-spacing: 0.5px;
+}
+
+.footer-container {
+    padding: 60px 40px 0 40px;
+
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: 12px;
+    letter-spacing: 0.5px;
+}
+
+.footer-col h6 {
+    margin: 0;
+    letter-spacing: 0.5px;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 480px) {
+    .footer-col h4 {
+        margin-top: 25px;
+    }
+}
