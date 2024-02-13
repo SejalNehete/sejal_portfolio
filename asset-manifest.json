@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sejal_portfolio/static/css/main.2f449c37.css",
-    "main.js": "/sejal_portfolio/static/js/main.0d03d5d3.js",
+    "main.js": "/sejal_portfolio/static/js/main.e6f5bdfc.js",
     "static/js/787.f5a2eb5b.chunk.js": "/sejal_portfolio/static/js/787.f5a2eb5b.chunk.js",
     "static/media/pexels-photo-7144172.jpg": "/sejal_portfolio/static/media/pexels-photo-7144172.5c7a6576fe734c12e8b7.jpg",
     "static/media/gradient-interview-portfolio-template_23-2149220443.jpg": "/sejal_portfolio/static/media/gradient-interview-portfolio-template_23-2149220443.3397f4984526027198ce.jpg",
@@ -9,11 +9,11 @@
     "static/media/SEJAL_NEHETE.pdf": "/sejal_portfolio/static/media/SEJAL_NEHETE.6f6151e9431536ddee60.pdf",
     "index.html": "/sejal_portfolio/index.html",
     "main.2f449c37.css.map": "/sejal_portfolio/static/css/main.2f449c37.css.map",
-    "main.0d03d5d3.js.map": "/sejal_portfolio/static/js/main.0d03d5d3.js.map",
+    "main.e6f5bdfc.js.map": "/sejal_portfolio/static/js/main.e6f5bdfc.js.map",
     "787.f5a2eb5b.chunk.js.map": "/sejal_portfolio/static/js/787.f5a2eb5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f449c37.css",
-    "static/js/main.0d03d5d3.js"
+    "static/js/main.e6f5bdfc.js"
   ]
 }
